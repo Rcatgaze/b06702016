@@ -5,5 +5,5 @@
 哈囉你好。
 ## 進度報告
 Week 1 <br>
-> * In class <br>
->>完成readme
+* In class <br>
+  完成readme
