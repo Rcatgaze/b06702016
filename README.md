@@ -8,4 +8,5 @@
 * In class <br>
   * Create a new github acount
   * Create a new file "Readme"
+  * [hw1](https://rcatgaze.github.io/b06702016/week1/hw1) 
 * At home <br>
