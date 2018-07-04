@@ -6,5 +6,5 @@
 ## 學習歷程
 ### Week 1
 * In class <br>
- * 完成readme
+  * 完成readme
 * At home <br>
