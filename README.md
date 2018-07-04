@@ -6,5 +6,6 @@
 ## 學習歷程
 ### Week 1
 * In class <br>
-  * 完成readme
+  * Create a new github acount
+  * Create a new file "Readme"
 * At home <br>
