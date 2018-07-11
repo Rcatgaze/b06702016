@@ -19,4 +19,4 @@
   * [hw2 part1 p2](https://rcatgaze.github.io/b06702016/week2/2)
   * [hw2 part1 p3](https://rcatgaze.github.io/b06702016/week2/3)
   * [hw2 part1 p4](https://rcatgaze.github.io/b06702016/week2/4)
-  * [hw2 part2文字雲](https://rcatgaze.github.io/b06702016/week2/hw_part2)
+  * [hw2 part2文字雲](https://rcatgaze.github.io/b06702016/week2/hw_part)
