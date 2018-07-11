@@ -10,3 +10,9 @@
   * Create a new file "Readme"
   * [hw1](https://rcatgaze.github.io/b06702016/week1/hw1) 
 * At home <br>
+  * Finish ​Introduction to R​
+  * Finish ​Intermediate R​
+  * Finish ​Introduction to the tidyverse​
+### Week 2
+* In class 
+  * Use ggplot to draw 4 chat
