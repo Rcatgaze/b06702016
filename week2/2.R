@@ -1,0 +1,6 @@
+library(ggplot2)
+library(dplyr)
+
+cars_ <- cars
+ggplot(cars, aes(x = speed, y = dist)) +
+  geom_point()
