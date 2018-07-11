@@ -15,4 +15,7 @@
   * Finish ​Introduction to the tidyverse​
 ### Week 2
 * In class 
-  * Use ggplot to draw 4 chat
+  * [hw2 part1](https://rcatgaze.github.io/b06702016/week2/1)
+  * [hw2 part2](https://rcatgaze.github.io/b06702016/week2/2)
+  * [hw2 part3](https://rcatgaze.github.io/b06702016/week2/3)
+  * [hw2 part4](https://rcatgaze.github.io/b06702016/week2/4)
