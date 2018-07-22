@@ -19,3 +19,6 @@
   * [hw2 part1 p3](https://rcatgaze.github.io/b06702016/week2/3)
   * [hw2 part1 p4](https://rcatgaze.github.io/b06702016/week2/4)
   * [hw2 part2文字雲](https://rcatgaze.github.io/b06702016/week2/hw2_part2)
+### Week 3
+* In class
+  * [hw3 morning](https://rcatgaze.github.io/b06702016/week3/Report%20of%20Random%20Forest%20Benchmark)
