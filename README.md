@@ -21,4 +21,4 @@
   * [hw2 part2文字雲](https://rcatgaze.github.io/b06702016/week2/hw2_part2)
 ### Week 3
 * In class
-  * [hw3 morning](https://rcatgaze.github.io/b06702016/week3/Report_of_Random_Forest_Benchmark.html)
+  * [hw3 morning]
