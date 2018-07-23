@@ -22,3 +22,4 @@
 ### Week 3
 * In class
   * [hw3 morning](https://rcatgaze.github.io/b06702016/week3/report)
+  * [hw3 afternoon](https://rcatgaze.github.io/b06702016/week3/TextMining_MarvelPPT)
