@@ -4,11 +4,11 @@
 學生：袁翊涵 學籍：台大會計系 學號：B06702016 
 ## 學習歷程
 ### Week 1
-* In class <br>
+* In class 
   * Create a new github acount
   * Create a new file "Readme"
   * [hw1](https://rcatgaze.github.io/b06702016/week1/hw1) 
-* At home <br>
+* At home 
   * Finish Introduction to R
   * Finish Intermediate R
   * Finish Introduction to the tidyverse
@@ -21,4 +21,4 @@
   * [hw2 part2文字雲](https://rcatgaze.github.io/b06702016/week2/hw2_part2)
 ### Week 3
 * In class
-  * [hw3 morning](https://rcatgaze.github.io/b06702016/week3/report)
+  * [hw3 morning]()
