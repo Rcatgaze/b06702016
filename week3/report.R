@@ -1,12 +1,4 @@
----
-  title: "Untitled"
-output: html_document
----
-  ---
-  title: "Report of Random Forest Benchmark"
-output: html_document
----
-  
+
 #DATA from https://www.kaggle.com/benhamner/random-forest-benchmark-r/data
 
 #載入library
