@@ -7,7 +7,7 @@ output: html_document
 output: html_document
 ---
   
-  DATA from https://www.kaggle.com/benhamner/random-forest-benchmark-r/data
+#DATA from https://www.kaggle.com/benhamner/random-forest-benchmark-r/data
 
 #載入library
 
