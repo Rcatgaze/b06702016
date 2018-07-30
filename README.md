@@ -20,6 +20,9 @@
   * [hw2 part1 p4](https://rcatgaze.github.io/b06702016/week2/4)
   * [hw2 part2文字雲](https://rcatgaze.github.io/b06702016/week2/hw2_part2)
 ### Week 3
-* In class
+* In class & home
   * [hw3 morning](https://rcatgaze.github.io/b06702016/week3/report)
   * [hw3 afternoon](https://rcatgaze.github.io/b06702016/week3/TextMining_MarvelPPT)
+### Week 3
+* In class & home
+  * [hw4](https://rcatgaze.github.io/b06702016/week4/hw4_morning)
