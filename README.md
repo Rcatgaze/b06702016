@@ -28,4 +28,4 @@
   * [hw4](https://rcatgaze.github.io/b06702016/week4/hw4_morning)
 ### Week 5
 * Final project
-  * [Final project](hhttps://rcatgaze.shinyapps.io/MLBanalysis/)
+  * [Final project](https://rcatgaze.shinyapps.io/MLBanalysis/)
