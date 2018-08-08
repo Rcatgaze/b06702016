@@ -23,6 +23,9 @@
 * In class & home
   * [hw3 morning](https://rcatgaze.github.io/b06702016/week3/report)
   * [hw3 afternoon](https://rcatgaze.github.io/b06702016/week3/TextMining_MarvelPPT)
-### Week 3
+### Week 4
 * In class & home
   * [hw4](https://rcatgaze.github.io/b06702016/week4/hw4_morning)
+### Week 5
+* Final project
+  * [Final project](hhttps://rcatgaze.shinyapps.io/MLBanalysis/)
