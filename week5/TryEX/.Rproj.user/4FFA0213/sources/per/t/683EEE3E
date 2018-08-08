@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533538262268.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2487378044",
+    "id" : "683EEE3E",
+    "lastKnownWriteTime" : 1533542155,
+    "last_content_update" : 1533542155470,
+    "path" : "~/GitHub/106Summer-master/week5/week5.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "46,8",
+        "scrollLine" : "37"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
